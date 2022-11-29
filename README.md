@@ -17,7 +17,7 @@
 
   <a href="https://sakana-music-player.vercel.app/"><strong>➥ Live Demo - 在线演示</strong></a>
   
-  <a href="https://music.xn--fhqw2khm122n.cn/"><strong>➥ China Live Demo - 在线演示 (中国大陆优化)</strong></a>
+  <a href="https://smp.rth.app/"><strong>➥ China Live Demo - 在线演示 (中国大陆优化)</strong></a>
   
   ----------
   
