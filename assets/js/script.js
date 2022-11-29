@@ -98,7 +98,6 @@ const musicData = [
     musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E8%93%AE%E3%81%AE%E8%8A%B1%20-movie%20version-%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.mp3",
   },
 ];
-];
 
 
 
