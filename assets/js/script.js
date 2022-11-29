@@ -12,7 +12,7 @@ const musicData = [
     posterUrl: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221128221852.png",
     title: "ユリイカ ",
     album: "834.194",
-    year: 2022,
+    year: 2019,
     artist: "サカナクション",
     musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E3%83%A6%E3%83%AA%E3%82%A4%E3%82%AB%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.flac",
   },
@@ -61,6 +61,43 @@ const musicData = [
     artist: "サカナクション",
     musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E6%96%B0%E5%AE%9D%E5%B3%B6%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.flac",
   },
+  {
+    backgroundImage: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221128221852.png",
+    posterUrl: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221128221852.png",
+    title: "「聴きたかったダンスミュージック、リキッドルームに」 - サカナクション",
+    album: "834.194",
+    year: 2019,
+    artist: "サカナクション",
+    musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E3%80%8C%E8%81%B4%E3%81%8D%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%80%81%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%AB%E3%83%BC%E3%83%A0%E3%81%AB%E3%80%8D%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.flac",
+  },
+  {
+    backgroundImage: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221129143248.png",
+    posterUrl: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221129143248.png",
+    title: "表参道26時",
+    album: "kikUUiki",
+    year: 2010,
+    artist: "サカナクション",
+    musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E8%A1%A8%E5%8F%82%E9%81%9326%E6%99%82%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.flac",
+  },
+  {
+    backgroundImage: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221129143506.png",
+    posterUrl: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221129143506.png",
+    title: "多分、風。",
+    album: "多分、風。",
+    year: 2016,
+    artist: "サカナクション",
+    musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E5%A4%9A%E5%88%86%E3%80%81%E9%A2%A8%E3%80%82%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.flac",
+  },
+  {
+    backgroundImage: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221129143817.png",
+    posterUrl: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221129143817.png",
+    title: "蓮の花 -movie version-",
+    album: "蓮の花 -movie version-",
+    year: 2014,
+    artist: "サカナクション",
+    musicPath: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/%E8%93%AE%E3%81%AE%E8%8A%B1%20-movie%20version-%20-%20%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.mp3",
+  },
+];
 ];
 
 
