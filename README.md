@@ -9,7 +9,7 @@
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
   <br />
 
-  Languages: [English](./README.md) | [简体中文-Simplified Chinese](./README-zh_hans.md) | [繁体中文-traditional Chinese](./README-zh_hant.md)
+  Languages: [English](./README.md) | [简体中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md) | [日本語](./README-ja.md)
 
   <h1 align="center">Sakana Music Player</h2>
 
