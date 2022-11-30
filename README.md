@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer)
-  ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer)
-  ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yandao0313?style=social)](https://twitter.com/intent/follow?screen_name=yandao0313)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge)
+  ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/yandao0313?style=for-the-badge)](https://twitter.com/intent/follow?screen_name=yandao0313)
 
   <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
