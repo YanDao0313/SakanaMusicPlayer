@@ -1,9 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge)
-  ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yandao0313?style=for-the-badge)](https://twitter.com/intent/follow?screen_name=yandao0313)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/yandao0313?style=for-the-badge&logo=Twitter)](https://twitter.com/intent/follow?screen_name=yandao0313)
+  [![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsakana-music-player.vercel.app)](https://sakana-music-player.vercel.app)
 
   <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="さかな音楽プレイヤー">
