@@ -11,7 +11,7 @@
 
   言語: [英語](./README.md) | [簡体字中国語](./README-zh_hans.md) | [繁体字中国語](./README-zh_hant.md) | [日本語](./README-ja.md)
 
-  ⚠️ ***WARING: THIS FILE IS TRANSLATED BY GOOGLE***
+  ⚠️ ***WARNING: THIS FILE IS TRANSLATED BY GOOGLE***
 
   <h1 align="center">Sakana Music Player</h2>
 
