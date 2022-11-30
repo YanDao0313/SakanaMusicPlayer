@@ -31,7 +31,7 @@
 
 ## Demo Screeshot - 屏幕截图
 
-![Sakana Music Player Desktop Demo](./profile_img/screely-1669691537686.png "Desktop Demo")
+![Sakana Music Player Desktop Demo](./profile_img/screely-1669785889819.png "Desktop Demo")
 
 > [Demo Video - 演示视频](https://youtu.be/izUETrfEoMs)
 
