@@ -62,7 +62,7 @@ git clone https://github.com/YanDao0313/SakanaMusicPlayer.git
 
 ## ライセンス
 
-このプロジェクトは、**MIT ライセンスの下に**あります。
+このプロジェクトは、**MIT協定**あります。
 
 ----------
 
