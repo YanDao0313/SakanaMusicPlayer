@@ -29,7 +29,7 @@
 
 <br />
 
-## Demo Screeshots - 屏幕截图
+## Demo Screeshot - 屏幕截图
 
 ![Sakana Music Player Desktop Demo](./profile_img/screely-1669691537686.png "Desktop Demo")
 
