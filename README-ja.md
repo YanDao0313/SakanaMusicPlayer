@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHubリポジトリサイズ](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer)
+  ![GitHub リポジトリサイズ](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer)
   ![GitHub スター](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer)
   ![GitHubフォーク](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=social)
   [![Twitter フォロー](https://img.shields.io/twitter/follow/yandao0313?style=social)](https://twitter.com/intent/follow?screen_name=yandao0313)
@@ -13,9 +13,9 @@
 
   ⚠️ ***WARING: THIS FILE IS TRANSLATED BY GOOGLE***
 
-  <h1 align="center">さかな音楽プレイヤー</h2>
+  <h1 align="center">Sakana Music Player</h2>
 
-  バニラ javascript を使用した完全にレスポンシブなウェブ ミュージック プレーヤー。 <br />【サカナクション】(https://sakanaction.jp/)の楽曲付き。
+  vanilla javascript を使用した完全にレスポンシブなウェブ ミュージック プレーヤー。 <br />[サカナクション](https://sakanaction.jp/)の楽曲付き。
 
   <a href="https://sakana-music-player.vercel.app/"><strong>➥ ライブデモ</strong></a>
   
@@ -23,7 +23,8 @@
   
   ----------
   
-  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project- name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music -player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png)
+  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png)
+  
   
   バージョンを [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png) にデプロイする
 
