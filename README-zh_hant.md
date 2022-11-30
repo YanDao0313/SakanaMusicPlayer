@@ -9,41 +9,41 @@
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
   <br />
 
-  Languages: [English](./README.md) | [简体中文-Simplified Chinese](./README-zh_hans.md) | [繁体中文-traditional Chinese](./README-zh_hant.md)
+  Languages: [英語](./README.md) | [簡體中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md)
 
   <h1 align="center">Sakana Music Player</h2>
-
-  A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript. <br />With songs by [Sakanaction](https://sakanaction.jp/).
-
-  <a href="https://sakana-music-player.vercel.app/"><strong>➥ Live Demo</strong></a>
   
-  <a href="https://smp.rth.app/"><strong>➥ Chinese-friendly Live Demo</strong></a>
+  使用 vanilla javascript 的響應式網絡音樂播放器<br />響應所有設備，使用 html、css 和 javascript 構建<br />配上 [Sakanaction](https://sakanaction.jp/) 的歌曲
+
+  <a href="https://sakana-music-player.vercel.app/"><strong>➥ 在線演示</strong></a>
+  
+  <a href="https://smp.rth.app/"><strong>➥ 在線演示 (中國大陸優化)</strong></a>
   
   ----------
   
   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png)
   
-  Deploy Your Own Version With [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png)
+  在 [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png) 上發布您自己的版本
 
 </div>
 
 <br />
 
-## Demo Screeshot
+## 屏幕截圖
 
 ![Sakana Music Player Desktop Demo](./profile_img/screely-1669785889819.png "Desktop Demo")
 
-> [Demo Video](https://youtu.be/izUETrfEoMs)
+> [演示視頻](https://youtu.be/izUETrfEoMs)
 
-## Prerequisites
+## 準備工作
 
-Before you begin, ensure you have met the following requirements:
+在你開始之前，你的設備必須滿足以下條件：
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") 必須在你的操作環境上已安裝好。
 
-## Run Locally
+## 本地運行
 
-To run **Sakana Music Player** locally, run this command on your git bash:
+為了在本地運行 **Sakana Music Player** ，請在終端中執行以下命令：
 
 Linux & macOS:
 
@@ -57,9 +57,9 @@ Windows:
 git clone https://github.com/YanDao0313/SakanaMusicPlayer.git
 ```
 
-## License
+## 協議
 
-This project is **Under the MIT License**. 
+本項目使用**MIT開源協議**。
 
 ----------
 
