@@ -57,6 +57,8 @@
 
 ✅ すばらしいエラー ページが含まれるようになりました ([このプロジェクト](https://github.com/tarampampam/error-pages) から)
 
+✅ NEW | コメントがサポートされるようになりました! Powered by [waline](https://waline.js.org/)
+
 ## 前提条件
 
 開始する前に、次の要件を満たしていることを確認してください。

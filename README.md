@@ -54,6 +54,8 @@
 
 ✅ Now including awesome error pages (from [this project](https://github.com/tarampampam/error-pages))
 
+✅ New - Comments are supported now, power by [waline](https://waline.js.org/)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:

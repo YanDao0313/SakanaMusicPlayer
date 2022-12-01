@@ -54,6 +54,8 @@
 
 ✅ 新增 | 美观的错误页面们 (来自于 [此项目](https://github.com/tarampampam/error-pages))
 
+✅ 新增 | 现在支持评论了！由 [waline](https://waline.js.org/) 驱动
+
 ## 准备工作
 
 在你开始之前，你的设备必须满足以下条件：
