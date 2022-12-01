@@ -17,7 +17,7 @@
 
   vanilla javascript を使用した完全にレスポンシブなウェブ ミュージック プレーヤー。 <br />[サカナクション](https://sakanaction.jp/)の楽曲付き。
 
-  <a href="https://sakana-music-player.vercel.app/"><strong>➥ ライブデモ</strong></a>
+  <a href="https://smp.is-an.app/"><strong>➥ ライブデモ (gh-pages)</strong></a>
   
   <a href="https://smp.rth.app/"><strong>➥ 中国最適化オンラインデモ</strong></a>
   

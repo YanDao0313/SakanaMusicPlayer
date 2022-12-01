@@ -9,13 +9,13 @@
   <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
 
-  Languages: [英语](./README.md) | [简体中文](./README-zh_hans.md) | [繁体中文](./README-zh_hant.md) | [日语](./README-ja.md)
+  语言: [英语](./README.md) | [简体中文](./README-zh_hans.md) | [繁体中文](./README-zh_hant.md) | [日语](./README-ja.md)
 
   <h1 align="center">Sakana Music Player</h2>
   
   使用 vanilla javascript 的响应式网络音乐播放器<br />响应所有设备，使用 html、css 和 javascript 构建<br />配上 [Sakanaction](https://sakanaction.jp/) 的歌曲
 
-  <a href="https://sakana-music-player.vercel.app/"><strong>➥ 在线演示</strong></a>
+  <a href="https://smp.is-an.app/"><strong>➥ 在线演示 (gh-pages)</strong></a>
   
   <a href="https://smp.rth.app/"><strong>➥ 在线演示 (中国大陆优化)</strong></a>
   

@@ -15,7 +15,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript. <br />With songs by [Sakanaction](https://sakanaction.jp/).
 
-  <a href="https://sakana-music-player.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://smp.is-an.app/"><strong>➥ Live Demo (gh-pages)</strong></a>
   
   <a href="https://smp.rth.app/"><strong>➥ Chinese-friendly Live Demo</strong></a>
   
