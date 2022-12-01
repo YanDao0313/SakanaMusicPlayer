@@ -1,6 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
   ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
   ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
   ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)

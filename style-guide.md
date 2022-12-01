@@ -1,3 +1,25 @@
+<div align="center">
+  
+  ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
+  [![website](https://img.shields.io/website?style=for-the-badge&logo=GitHub&down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsakana-music-player.vercel.app)](https://sakana-music-player.vercel.app)
+
+  <br />
+  <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
+
+  Languages: [English](./README.md) | [简体中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md) | [日本語](./README-ja.md)
+
+  <h1 align="center">Sakana Music Player Style-Guide</h2>
+
+  A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript. <br />With songs by [Sakanaction](https://sakanaction.jp/).
+
+  <a href="https://smp.is-an.app/"><strong>➥ Live Demo (gh-pages)</strong></a>
+  
+  <a href="https://smp.rth.app/"><strong>➥ Chinese-friendly Live Demo</strong></a>
+  
+  ----------
+
 # Essential Stuff
 
 ## Html import links
