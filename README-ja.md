@@ -35,7 +35,7 @@
 
   vercel: [sakana-music-player.vercel.app](https://sakana-music-player.vercel.app/) | [music.蒙古上单.cn](https://music.xn--fhqw2khm122n.cn/) | [smp.ydlk.cc](https://smp.ydlk.cc/)
 
-  retiehe host (For Chinese Viewers): [smp.rth.app](https://smp.rth.app/)
+  retiehe host (For Mainland China Viewers): [smp.rth.app](https://smp.rth.app/)
 
 </div>
 

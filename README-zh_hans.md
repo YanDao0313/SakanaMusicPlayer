@@ -32,7 +32,7 @@
 
   vercel: [sakana-music-player.vercel.app](https://sakana-music-player.vercel.app/) | [music.蒙古上单.cn - 防GFW](https://music.xn--fhqw2khm122n.cn/) | [smp.ydlk.cc - 防GFW](https://smp.ydlk.cc/)
 
-  retiehe host (For Chinese Viewers): [smp.rth.app - 随时可能被和谐](https://smp.rth.app/)
+  retiehe host (For Mainland China Viewers): [smp.rth.app - 随时可能被和谐](https://smp.rth.app/)
 
 </div>
 

@@ -16,7 +16,7 @@
 
   <a href="https://smp.is-an.app/"><strong>➥ Live Demo (gh-pages)</strong></a>
   
-  <a href="https://smp.rth.app/"><strong>➥ Chinese-friendly Live Demo</strong></a>
+  <a href="https://smp.rth.app/"><strong>➥ Mainland-China-friendly Live Demo</strong></a>
   
   ----------
 

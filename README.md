@@ -16,7 +16,7 @@
 
   <a href="https://smp.is-an.app/"><strong>➥ Live Demo (gh-pages)</strong></a>
   
-  <a href="https://smp.rth.app/"><strong>➥ Chinese-friendly Live Demo</strong></a>
+  <a href="https://smp.rth.app/"><strong>➥ Mainland-China-friendly Live Demo</strong></a>
   
   ----------
   
@@ -32,7 +32,7 @@
 
   vercel: [sakana-music-player.vercel.app](https://sakana-music-player.vercel.app/) | [music.蒙古上单.cn](https://music.xn--fhqw2khm122n.cn/) | [smp.ydlk.cc](https://smp.ydlk.cc/)
 
-  retiehe host (For Chinese Viewers): [smp.rth.app](https://smp.rth.app/)
+  retiehe host (For Mainland China Viewers): [smp.rth.app](https://smp.rth.app/)
 
 </div>
 
