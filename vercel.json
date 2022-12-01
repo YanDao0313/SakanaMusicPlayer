@@ -1,0 +1,27 @@
+{
+    "version": 2,
+    "routes": [
+      { "handle": "filesystem" },
+      { "src": "/(.*)", "status": 400, "dest": "/errors/400.html" },
+      { "src": "/(.*)", "status": 401, "dest": "/errors/401.html" },
+      { "src": "/(.*)", "status": 402, "dest": "/errors/402.html" },
+      { "src": "/(.*)", "status": 403, "dest": "/errors/403.html" },
+      { "src": "/(.*)", "status": 404, "dest": "/errors/404.html" },
+      { "src": "/(.*)", "status": 405, "dest": "/errors/405.html" },
+      { "src": "/(.*)", "status": 407, "dest": "/errors/407.html" },
+      { "src": "/(.*)", "status": 408, "dest": "/errors/408.html" },
+      { "src": "/(.*)", "status": 409, "dest": "/errors/409.html" },
+      { "src": "/(.*)", "status": 410, "dest": "/errors/410.html" },
+      { "src": "/(.*)", "status": 411, "dest": "/errors/411.html" },
+      { "src": "/(.*)", "status": 412, "dest": "/errors/412.html" },
+      { "src": "/(.*)", "status": 413, "dest": "/errors/413.html" },
+      { "src": "/(.*)", "status": 416, "dest": "/errors/416.html" },
+      { "src": "/(.*)", "status": 418, "dest": "/errors/418.html" },
+      { "src": "/(.*)", "status": 429, "dest": "/errors/429.html" },
+      { "src": "/(.*)", "status": 500, "dest": "/errors/500.html" },
+      { "src": "/(.*)", "status": 502, "dest": "/errors/502.html" },
+      { "src": "/(.*)", "status": 503, "dest": "/errors/503.html" },
+      { "src": "/(.*)", "status": 504, "dest": "/errors/504.html" },
+      { "src": "/(.*)", "status": 505, "dest": "/errors/505.html" }
+    ]
+  }

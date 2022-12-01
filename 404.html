@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
-    Error 502: Bad Gateway
-    Description: The server received an invalid response from the upstream server
+    Error 404: Not Found
+    Description: The server can not find the requested page
 -->
 <html lang="en">
 <head>
@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="robots" content="noindex, nofollow"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <title>502 | Bad Gateway</title>
+    <title>404 | Not Found</title>
     <link rel="preconnect" href="https://fonts.loli.net" crossorigin>
     <link rel="dns-prefetch" href="https://fonts.loli.net">
     <link href="https://fonts.loli.net/css2?family=Red+Hat+Display:wght@500&family=Fira+Mono&family=Ubuntu&display=swap" rel="stylesheet"/>
@@ -55,8 +55,8 @@
 </head>
 <body>
 <header>
-    <h1 class="error-code">502</h1>
-    <p class="error-description">Bad Gateway</p>
+    <h1 class="error-code">404</h1>
+    <p class="error-description">Not Found</p>
 </header>
 <div class="status">
     <div class="card warning" id="client-status-card">
@@ -114,11 +114,12 @@
 <div class="reason">
     <div class="what-happened">
         <h2 data-l10n>What happened?</h2>
-        <p class="description" data-l10n>The server received an invalid response from the upstream server</p>
+        <p class="description" data-l10n>The server can not find the requested page</p>
     </div>
     <div class="what-can-i-do">
         <h2 data-l10n>What can I do?</h2>
         <p class="description" data-l10n>Please try again in a few minutes</p>
+        <a href="./index.html">BACK TO MAIN PAGE - 回到主页</a>
     </div>
 </div>
 </body>
@@ -126,7 +127,7 @@
     
 </footer>
 <script>
-    const errorCode = parseInt(`502`, 10);
+    const errorCode = parseInt(`404`, 10);
 
     if (typeof errorCode !== 'undefined' && !isNaN(errorCode)) {
         /**
@@ -191,10 +192,10 @@
             });
         };
 
-        const message = `Bad Gateway`.trim(), cards = {
+        const message = `Not Found`.trim(), cards = {
             $client: document.getElementById('client-status-card'),
             $network: document.getElementById('network-status-card'),
-            $server: document.getElementById('server-status-card'),
+            $server: document.getElementById('server-statisOkus-card'),
         };
 
         let whatToDo = 'Please try again in a few minutes';
@@ -229,7 +230,7 @@
                 break;
         }
 
-        setReasons({whatHappened: `The server received an invalid response from the upstream server`.trim(), whatToDo: whatToDo.trim()});
+        setReasons({whatHappened: `The server can not find the requested page`.trim(), whatToDo: whatToDo.trim()});
     } else {
         console.warn('Cannot parse the error code:', errorCode);
     }
@@ -245,8 +246,4 @@
     }
     // 
 </script>
-<!--
-    Error 502: Bad Gateway
-    Description: The server received an invalid response from the upstream server
--->
 </html>
