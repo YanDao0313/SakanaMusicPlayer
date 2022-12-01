@@ -34,10 +34,6 @@
 
   retiehe host (For Chinese Viewers): [smp.rth.app - 随时可能被和谐](https://smp.rth.app/)
 
-  ----------
-
-  *现已更换api反代域名，向恼人的所谓的“退出大陆市场”说再见！*
-
 </div>
 
 <br />
