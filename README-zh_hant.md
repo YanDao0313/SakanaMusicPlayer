@@ -82,6 +82,14 @@ git clone https://github.com/YanDao0313/SakanaMusicPlayer.git
 
 本項目使用**MIT開源協議**。
 
+## 致謝
+
+<!---
+源代碼基於 @codewithsadee 的倉庫：[music-player](https://github.com/codewithsadee/music-player) 。
+--->
+
+域名 *smp.is-an.app* 來自於 [此項目](https://github.com/tarampampam/free-domains).
+
 ----------
 
 ![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/main_SakanaMusicPlayer.jpeg)

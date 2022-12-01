@@ -85,6 +85,14 @@ git clone https://github.com/YanDao0313/SakanaMusicPlayer.git
 
 このプロジェクトは、**MIT協定**あります。
 
+## 謝辞
+
+<!---
+ソース コードは @codewithsadee のリポジトリ [music-player](https://github.com/codewithsadee/music-player) に基づいています。
+--->
+
+ドメイン名 *smp.is-an.app* は [このプロジェクト](https://github.com/tarampampam/free-domains) に由来します。
+
 ----------
 
 ![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/main_SakanaMusicPlayer.jpeg)

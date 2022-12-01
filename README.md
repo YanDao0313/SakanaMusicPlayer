@@ -82,6 +82,14 @@ git clone https://github.com/YanDao0313/SakanaMusicPlayer.git
 
 This project is **Under the MIT License**. 
 
+## Thanks
+
+<!---
+Source Code is based on the repo [music-player](https://github.com/codewithsadee/music-player) by @codewithsadee .
+--->
+
+The domain *smp.is-an.app* is power by [this project](https://github.com/tarampampam/free-domains).
+
 ----------
 
 ![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/main_SakanaMusicPlayer.jpeg)
