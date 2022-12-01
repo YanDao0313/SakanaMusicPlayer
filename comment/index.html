@@ -1,0 +1,50 @@
+<head>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+    />
+    <title>SMP Comments</title>
+    <meta name="title" content="Sakana Music Player Comments">
+    <meta name="description" content="Sakana Music Player - Comment Page">
+    <link rel="shortcut icon" href="./favicon.ico">
+    <link rel="preconnect" href="https://fonts.loli.net">
+    <link rel="preconnect" href="https://gstatic.loli.net" crossorigin>
+    <link href="https://fonts.loli.net/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+     href="https://fonts.loli.net/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,-25" />
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <div class="top-bar wrapper">
+        <div class="logo wrapper">
+          <span class="material-symbols-rounded">graphic_eq</span>
+          <h1 class="title-lg">SMP Comments</h1>
+        </div>
+    
+        <div class="top-bar-actions">
+          <button class="btn-icon" data-playlist-toggler>
+            <span class="material-symbols-rounded">queue_music</span>
+          </button>
+        </div>
+    
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <h1>Comments</h1>
+    <div class="center" style="width:100%" id="waline" >
+        <script type="module">
+            import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+        
+            init({
+              el: '#waline',
+              serverURL: 'https://waline.ydlk.cc',
+              emoji: [
+                '//unpkg.com/@waline/emojis@1.1.0/bmoji',
+                '//unpkg.com/@waline/emojis@1.1.0/bilibili',
+                ],
+            });
+          </script>
+    </div>
+  </body>
