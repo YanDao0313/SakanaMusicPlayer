@@ -8,7 +8,7 @@
   <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
 
-  Languages: [English](./README.md) | [简体中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md) | [日本語](./README-ja.md)
+  Languages: [English](./style-guide.md)
 
   <h1 align="center">Sakana Music Player Style-Guide</h2>
 
@@ -32,7 +32,7 @@ Google font
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
 ```
 
-⚠️ 对于中国大陆的同胞，请使用以下的代码以实现正常访问：
+> ⚠️ 对于中国大陆的同胞，请使用以下的代码以实现正常访问：
 
 ``` html
 <link rel="preconnect" href="https://fonts.loli.net">
@@ -46,7 +46,7 @@ Material icon
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,-25" />
 ```
 
-⚠️ 对于中国大陆的同胞，请使用以下的代码以实现正常访问：
+> ⚠️ 对于中国大陆的同胞，请使用以下的代码以实现正常访问：
 
 ``` html
 <link rel="stylesheet" href="https://fonts.loli.net/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,-25" />

@@ -47,6 +47,16 @@
 
 > [デモ動画](https://youtu.be/izUETrfEoMs)
 
+## 特徴
+
+✅ vanilla javascript を使用した完全にレスポンシブなウェブ ミュージック プレーヤー。
+
+✅ すべてのデバイスに対応し、html、css、javascript で構築された純粋な静的ページ
+
+✅[サカナクション](https://sakanaction.jp/)の楽曲付き
+
+✅ すばらしいエラー ページが含まれるようになりました ([このプロジェクト](https://github.com/tarampampam/error-pages) から)
+
 ## 前提条件
 
 開始する前に、次の要件を満たしていることを確認してください。

@@ -44,6 +44,16 @@
 
 > [Demo Video](https://youtu.be/izUETrfEoMs)
 
+## Feature
+
+✅ A fully responsive web music player using vanilla javascript
+
+✅ Responsive for all devices, build using html, css, and javascript
+
+✅ With songs by [Sakanaction](https://sakanaction.jp/)
+
+✅ Now including awesome error pages (from [this project](https://github.com/tarampampam/error-pages))
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:

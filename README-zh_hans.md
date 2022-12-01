@@ -48,6 +48,16 @@
 
 > [演示视频 - Youtube](https://youtu.be/izUETrfEoMs)
 
+## 特色内容
+
+✅ 使用 vanilla javascript 的响应式网络音乐播放器
+
+✅ 响应所有设备，使用 html、css 和 javascript 构建，纯静态页面
+
+✅ 配上 [Sakanaction](https://sakanaction.jp/) 的歌曲
+
+✅ 新增 | 美观的错误页面们 (来自于 [此项目](https://github.com/tarampampam/error-pages))
+
 ## 准备工作
 
 在你开始之前，你的设备必须满足以下条件：

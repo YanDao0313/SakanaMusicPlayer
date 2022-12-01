@@ -44,6 +44,16 @@
 
 > [演示視頻](https://youtu.be/izUETrfEoMs)
 
+## 特色內容
+
+✅ 使用 vanilla javascript 的響應式網絡音樂播放器
+
+✅ 響應所有設備，使用 html、css 和 javascript 構建，純靜態頁面
+
+✅ 配上 [Sakanaction](https://sakanaction.jp/) 的歌曲
+
+✅ 新增 | 美觀的錯誤頁面們 (來自於 [此項目](https://github.com/tarampampam/error-pages))
+
 ## 準備工作
 
 在你開始之前，你的設備必須滿足以下條件：
