@@ -10,10 +10,24 @@ Google font
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
 ```
 
+⚠️ 对于中国大陆的同胞，请使用以下的代码以实现正常访问：
+
+``` html
+<link rel="preconnect" href="https://fonts.loli.net">
+<link rel="preconnect" href="https://gstatic.loli.net" crossorigin>
+<link href="https://fonts.loli.net/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+```
+
 Material icon
 
 ``` html
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,-25" />
+```
+
+⚠️ 对于中国大陆的同胞，请使用以下的代码以实现正常访问：
+
+``` html
+<link rel="stylesheet" href="https://fonts.loli.net/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,-25" />
 ```
 
 ---
