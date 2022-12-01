@@ -8,7 +8,6 @@
 
   <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="さかな音楽プレイヤー">
-  <br />
 
   言語: [英語](./README.md) | [簡体字中国語](./README-zh_hans.md) | [繁体字中国語](./README-zh_hant.md) | [日本語](./README-ja.md)
 
