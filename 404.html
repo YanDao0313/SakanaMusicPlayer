@@ -119,7 +119,7 @@
     <div class="what-can-i-do">
         <h2 data-l10n>What can I do?</h2>
         <p class="description" data-l10n>Please try again in a few minutes</p>
-        <a href="./index.html">BACK TO MAIN PAGE - 回到主页</a>
+        <a href="./index.html">BACK TO MAIN PAGE</a>
     </div>
 </div>
 </body>
@@ -238,7 +238,7 @@
     // 
     if (navigator.language.substring(0, 2).toLowerCase() !== 'en') {
         ((s, p) => { // localize the page (details here - https://github.com/tarampampam/error-pages/tree/master/l10n)
-            s.src = 'https://cdn.baomitu.com/gh/tarampampam/error-pages@2/l10n/l10n.min.js'; // '../l10n/l10n.js';
+            s.src = 'https://cdn.jsdelivr.net/gh/tarampampam/error-pages@2/l10n/l10n.min.js'; // '../l10n/l10n.js';
             s.async = s.defer = true;
             s.addEventListener('load', () => p.removeChild(s));
             p.appendChild(s);

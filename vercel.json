@@ -3,7 +3,6 @@
     "routes": [
       { "handle": "filesystem" },
       { "src": "/(.*)", "status": 404, "dest": "/errors/404.html" },
-      { "src": "/(.*)", "status": 400, "dest": "/errors/400.html" },
       { "src": "/(.*)", "status": 401, "dest": "/errors/401.html" },
       { "src": "/(.*)", "status": 402, "dest": "/errors/402.html" },
       { "src": "/(.*)", "status": 403, "dest": "/errors/403.html" },
