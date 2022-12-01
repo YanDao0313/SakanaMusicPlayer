@@ -53,7 +53,7 @@
 
 ✅ すべてのデバイスに対応し、html、css、javascript で構築された純粋な静的ページ
 
-✅[サカナクション](https://sakanaction.jp/)の楽曲付き
+✅ [サカナクション](https://sakanaction.jp/)の楽曲付き
 
 ✅ すばらしいエラー ページが含まれるようになりました ([このプロジェクト](https://github.com/tarampampam/error-pages) から)
 
@@ -61,7 +61,7 @@
 
 開始する前に、次の要件を満たしていることを確認してください。
 
-※ [Git](https://git-scm.com/downloads "Download Git") が OS にインストールされている必要があります。
+- [Git](https://git-scm.com/downloads "Download Git") が OS にインストールされている必要があります。
 
 ## ローカルで実行
 
