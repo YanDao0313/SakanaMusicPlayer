@@ -3,7 +3,7 @@
   ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
   ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
   ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
-  [![website](https://img.shields.io/website?style=for-the-badge&logo=GitHub&down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsakana-music-player.vercel.app)](https://sakana-music-player.vercel.app)
+  [![website](https://img.shields.io/website?style=for-the-badge&logo=GitHub&down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsmp.is-an.app)](https://smp.is-an.app)
 
   <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
