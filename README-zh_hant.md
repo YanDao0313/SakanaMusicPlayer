@@ -20,9 +20,9 @@
   
   ----------
   
-  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png)
+  [![Deploy with Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world&project-name=sakana-music-player&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20with%20songs%20by%20Sakanaction.&demo-url=https%3A%2F%2Fsmp.is-an.app&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png)
   
-  在 [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanDao0313%2FSakanaMusicPlayer&project-name=SakanaMusicPlayer&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20using%20vanilla%20javascript.%20&demo-url=https%3A%2F%2Fsakana-music-player.vercel.app%2F&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png) 上發布您自己的版本
+  在 [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world&project-name=sakana-music-player&repository-name=SakanaMusicPlayer&demo-title=Sakana%20Music%20Player&demo-description=A%20fully%20responsive%20web%20music%20player%20with%20songs%20by%20Sakanaction.&demo-url=https%3A%2F%2Fsmp.is-an.app&demo-image=https%3A%2F%2Fxingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com%2F5115%2F20221128221852.png) 上發布您自己的版本
 
   ----------
 
