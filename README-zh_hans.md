@@ -30,6 +30,8 @@
   
   gh-pages: [yandao0313.github.io](https://yandao0313.github.io/SakanaMusicPlayer/) | [smp.is-an.app](https://smp.is-an.app/)
 
+  cf-pages: [sakana-music-player.pages.dev - 需要魔法](https://sakana-music-player.pages.dev/)
+
   vercel: [sakana-music-player.vercel.app](https://sakana-music-player.vercel.app/) | [music.蒙古上单.cn - 防GFW](https://music.xn--fhqw2khm122n.cn/) | [smp.ydlk.cc - 防GFW](https://smp.ydlk.cc/)
 
   retiehe host (For Mainland China Viewers): [smp.rth.app - 随时可能被和谐](https://smp.rth.app/)
