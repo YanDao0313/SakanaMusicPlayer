@@ -2,7 +2,7 @@
   
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
 
-  Languages: [English](./en/) | [简体中文](./zh_hans/)
+  Choose the language: [English Document](./en/) | [简中文档](./zh_hans/)
 
   # Sakana Music Player
 
