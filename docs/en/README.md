@@ -1,16 +1,8 @@
 <div align="center">
   
-  ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
-  ![GitHub stars](https://img.shields.io/github/stars/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
-  ![GitHub forks](https://img.shields.io/github/forks/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
-  [![website](https://img.shields.io/website?style=for-the-badge&logo=GitHub&down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsmp.is-an.app)](https://smp.is-an.app)
-
-  <br />
   <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
 
-  Languages: [English](./README.md) | [简体中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md) | [日本語](./README-ja.md)
-
-  <h1 align="center">Sakana Music Player</h1>
+  # Sakana Music Player
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript. <br />With songs by [Sakanaction](https://sakanaction.jp/).
 

@@ -12,7 +12,7 @@
 
   ⚠️ ***WARNING: THIS FILE IS TRANSLATED BY GOOGLE***
 
-  <h1 align="center">Sakana Music Player</h2>
+  <h1 align="center">Sakana Music Player</h1>
 
   vanilla javascript を使用した完全にレスポンシブなウェブ ミュージック プレーヤー。 <br />[サカナクション](https://sakanaction.jp/)の楽曲付き。
 

@@ -10,7 +10,7 @@
 
   語言: [英語](./README.md) | [簡體中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md) | [日语](./README-ja.md)
 
-  <h1 align="center">Sakana Music Player</h2>
+  <h1 align="center">Sakana Music Player</h1>
   
   使用 vanilla javascript 的響應式網絡音樂播放器<br />響應所有設備，使用 html、css 和 javascript 構建<br />配上 [Sakanaction](https://sakanaction.jp/) 的歌曲
 
