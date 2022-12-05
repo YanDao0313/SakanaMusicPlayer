@@ -6,7 +6,7 @@
   [![website](https://img.shields.io/website?style=for-the-badge&logo=GitHub&down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsmp.is-an.app)](https://smp.is-an.app)
 
   <br />
-  <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/SMP.png" alt="Sakana Music Player">
+  <img src="./profile_img/SMP.png" alt="Sakana Music Player">
 
   Languages: [English](./README.md) | [简体中文](./README-zh_hans.md) | [繁體中文](./README-zh_hant.md) | [日本語](./README-ja.md)
 
