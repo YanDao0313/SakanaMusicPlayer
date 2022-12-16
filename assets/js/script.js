@@ -10,7 +10,7 @@ const musicData = [
   {
     backgroundImage: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221128221852.png",
     posterUrl: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221128221852.png",
-    title: "ユリイカ ",
+    title: "ユリイカ",
     album: "834.194",
     year: 2019,
     artist: "サカナクション",
