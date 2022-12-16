@@ -28,6 +28,14 @@
     <link rel="stylesheet"
      href="https://fonts.loli.net/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,-25" />
     <link rel="stylesheet" href="./assets/css/style.css">
+	<style>
+	div#waline{
+		margin: auto;
+		width:100%;
+		max-width: 1400px;
+		padding: 2.5%;
+	}
+</style>
 </head>
 <body>
     <div class="top-bar wrapper">
@@ -39,9 +47,8 @@
     <br />
     <br />
     <br />
-    <br />
     <h1>Comments</h1>
-    <div class="center" style="width:100%" id="waline" >
+    <div id="waline" >
         <script type="module">
             import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
         
@@ -53,8 +60,17 @@
                 '//unpkg.com/@waline/emojis@1.1.0/bmoji',
                 '//unpkg.com/@waline/emojis@1.1.0/bilibili',
                 ],
-              dark: true,
-              lang: 'en',
+              pageview: true,
+	      comment: true,
+	      reaction: [
+                'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_sunglasses.png',
+                'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_thumbsup.png',
+                'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_doge.png',	
+	              'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_confused.png',
+	              'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_sweat.png',
+                'https://unpkg.com/@waline/emojis@1.1.0/bilibili/bb_sleepy.png',
+              ],
+             dark: true,
             });
           </script>
     </div>
