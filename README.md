@@ -1,3 +1,6 @@
+> Our servers are under attack by some chinese users during these days, you may find that the site isn't reachable.  
+> We're sorry about this. QwQ
+
 <div align="center">
   
   ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
