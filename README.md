@@ -32,6 +32,8 @@
   All Available Preview Websites
   
   gh-pages: [yandao0313.github.io](https://yandao0313.github.io/SakanaMusicPlayer/) | [smp.is-an.app](https://smp.is-an.app/)
+  
+  codeberg pages: [yandao.codeberg.page](https://yandao.codeberg.page/SakanaMusicPlayer/)
 
   cf-pages: [sakana-music-player.pages.dev](https://sakana-music-player.pages.dev/)
 
