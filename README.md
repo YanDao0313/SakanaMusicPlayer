@@ -1,5 +1,4 @@
-> Our servers are under attack by some chinese users during these days, you may find that the site isn't reachable.  
-> We're sorry about this. QwQ
+> New project is coming! Try it [online at music.ydlk.cc](https://music.ydlk.cc/)
 
 <div align="center">
   

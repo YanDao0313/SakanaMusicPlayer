@@ -1,3 +1,5 @@
+> New project is coming! Try it [online at music.ydlk.cc](https://music.ydlk.cc/)
+
 <div align="center">
   
   ![Repo languages](https://img.shields.io/github/languages/count/YanDao0313/SakanaMusicPlayer?style=for-the-badge&logo=GitHub)
